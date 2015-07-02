@@ -14,6 +14,7 @@
 		52DB1B201A6DE8BB003281CB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52DB1B1F1A6DE8BB003281CB /* Images.xcassets */; };
 		52DB1B231A6DE8BB003281CB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52DB1B211A6DE8BB003281CB /* LaunchScreen.xib */; };
 		52DB1B2F1A6DE8BB003281CB /* homeWorkTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 52DB1B2E1A6DE8BB003281CB /* homeWorkTests.m */; };
+		52DB1B391A6DE93F003281CB /* feng.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 52DB1B381A6DE93F003281CB /* feng.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		52DB1B281A6DE8BB003281CB /* homeWorkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = homeWorkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52DB1B2D1A6DE8BB003281CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		52DB1B2E1A6DE8BB003281CB /* homeWorkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = homeWorkTests.m; sourceTree = "<group>"; };
+		52DB1B381A6DE93F003281CB /* feng.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = feng.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				52DB1B1C1A6DE8BB003281CB /* Main.storyboard */,
 				52DB1B1F1A6DE8BB003281CB /* Images.xcassets */,
 				52DB1B211A6DE8BB003281CB /* LaunchScreen.xib */,
+				52DB1B381A6DE93F003281CB /* feng.jpeg */,
 				52DB1B121A6DE8BB003281CB /* Supporting Files */,
 			);
 			path = homeWork;
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				52DB1B1E1A6DE8BB003281CB /* Main.storyboard in Resources */,
+				52DB1B391A6DE93F003281CB /* feng.jpeg in Resources */,
 				52DB1B231A6DE8BB003281CB /* LaunchScreen.xib in Resources */,
 				52DB1B201A6DE8BB003281CB /* Images.xcassets in Resources */,
 			);

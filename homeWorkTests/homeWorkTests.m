@@ -2,8 +2,8 @@
 //  homeWorkTests.m
 //  homeWorkTests
 //
-//  Created by wang xinkai on 15/1/20.
-//  Copyright (c) 2015年 wxhl. All rights reserved.
+//  Created by mac on 15-1-19.
+//  Copyright (c) 2015年 赵洋洋. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
